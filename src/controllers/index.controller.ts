@@ -1,0 +1,11 @@
+import './address.controller';
+import './chat.controller';
+import './client.controller';
+import './cnpj.controller';
+import './code.controller';
+import './mechanical.controller';
+import './person.controller';
+import './scheduling.controller';
+import './rating.controller';
+import './complaint.controller';
+import './category.controller';
