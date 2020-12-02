@@ -27,4 +27,4 @@
 </ul><br>
 
 <h2> :iphone: Telas <h2>
-<image src="https://mechapp.s3-sa-east-1.amazonaws.com/Screenshot_20201201-205555_Expo.jpg" height="500px"/> <image src="https://mechapp.s3-sa-east-1.amazonaws.com/Frame+1.png" height="500px"/> <image src="https://mechapp.s3-sa-east-1.amazonaws.com/Screenshot_20201201-210107_Expo.jpg" height="500px"/> <image src="https://mechapp.s3-sa-east-1.amazonaws.com/Screenshot_20201201-210558_Expo.jpg" height="500px"/> 
+<image src="https://mechapp.s3-sa-east-1.amazonaws.com/Screenshot_20201201-205555_Expo.jpg" height="420px"/> <image src="https://mechapp.s3-sa-east-1.amazonaws.com/Frame+1.png" height="420px"/> <image src="https://mechapp.s3-sa-east-1.amazonaws.com/Screenshot_20201201-210107_Expo.jpg" height="420px"/> <image src="https://mechapp.s3-sa-east-1.amazonaws.com/Screenshot_20201201-210558_Expo.jpg" height="420px"/> 
