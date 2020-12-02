@@ -16,7 +16,7 @@
 <h3> Rotas </h3>
 <p> Todas as <strong>rotas</strong> da API são definidas nas <strong>Controllers.</strong> </p><br>
 
-<h2> :mag_right:: Tecnologias </h2>
+<h2> :mag_right: Tecnologias </h2>
 <ul>
   <li> Node.js </li>
   <li> Express </li>
