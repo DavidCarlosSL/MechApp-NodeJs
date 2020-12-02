@@ -7,7 +7,7 @@
 <p> O <strong>MechApp</strong> é um <strong>aplicativo catalogador e divulgador de oficinas mecânicas</strong>. </p>
 <h3> Como Funciona </h3>
 <p> O aplicativo atende dois tipos de usuário: <strong>Cliente</strong> e <strong>Oficina</strong>. </p>
-<p> O <strong>Cliente</strong> vizualiza um catálogo de oficinas mecânicas, tendo diversas opções de filtragem. Clicando na oficina desejada, ele vizualiza o perfil, aonde é mostrado informações como endereços, serviços que prestam, avaliações e etc. Pelo Perfil, também é possivel iniciar um Chat em tempo real, aonde o cliente consegue um agendamento de visita e, posteriormente, avalia a oficina. </p>
+<p> O <strong>Cliente</strong> visualiza um catálogo de oficinas mecânicas, tendo diversas opções de filtragem. Clicando na oficina desejada, ele visualiza o perfil, aonde é mostrado informações como endereços, serviços que prestam, avaliações e etc. Pelo Perfil, também é possivel iniciar um Chat em tempo real, aonde o cliente consegue um agendamento de visita e, posteriormente, avalia a oficina. </p>
 <p> A <strong>Oficina</strong> possui uma listagem de agendamentos, que foram feitos pelo chat, com os clientes. Pode também editar seu perfil, como adicionar uma descrição, adicionar endereços, adicionar uma foto de perfil, etc. </p> <br>
 
 <h2> :computer: Utilização da API </h2>
