@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+require("./address.controller");
+require("./chat.controller");
+require("./client.controller");
+require("./cnpj.controller");
+require("./code.controller");
+require("./mechanical.controller");
+require("./person.controller");
+require("./scheduling.controller");
+require("./rating.controller");
+require("./complaint.controller");
+require("./category.controller");
