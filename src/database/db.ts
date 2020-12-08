@@ -14,12 +14,12 @@ import { Category } from '../models/category.model';
 
 const connParams: ConnectionOptions = {
     type: 'mysql',
-    host: process.env.DB_HOST,
-    port: process.env.DB_PORT,
-    username: process.env.DB_USER,
-    password: process.env.DB_USER_PASSWORD,
-    database: process.env.DB_DATABASE,
-    name: process.env.DB_DATABASE,
+    host: 'localhost',
+    port: 3306,
+    username: 'root',
+    password: 'Mikaelly5543',
+    database: 'mechapp',
+    name: 'mechapp',
     entities: [
         Client,
         Mechanical,
